@@ -16,6 +16,31 @@ public class CaseInsensitiveComparator extends GenericComparator {
          * sortAscending = true then ascending
          * sortAscending = false then descending
          */
+         /*
+         * This function call base GenericComparator(boolean sortAscending) class and set whether sorting is in ascending or descending
+         * sortAscending = true then ascending
+         * sortAscending = false then descending
+         */
+         /*
+         * This function call base GenericComparator(boolean sortAscending) class and set whether sorting is in ascending or descending
+         * sortAscending = true then ascending
+         * sortAscending = false then descending
+         */
+         /*
+         * This function call base GenericComparator(boolean sortAscending) class and set whether sorting is in ascending or descending
+         * sortAscending = true then ascending
+         * sortAscending = false then descending
+         */
+         /*
+         * This function call base GenericComparator(boolean sortAscending) class and set whether sorting is in ascending or descending
+         * sortAscending = true then ascending
+         * sortAscending = false then descending
+         */
+         /*
+         * This function call base GenericComparator(boolean sortAscending) class and set whether sorting is in ascending or descending
+         * sortAscending = true then ascending
+         * sortAscending = false then descending
+         */
         public CaseInsensitiveComparator(boolean sortAscending) {
                 super(sortAscending);
                 this.targetMethod = null;
